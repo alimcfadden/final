@@ -1,0 +1,43 @@
+stylesfinal.css
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #555;
+    background-color: rgb(248, 238, 180);
+}
+h1 {color: rgb(5, 48, 22);}
+
+p {color: darkgreen;
+    background-color: rgb(255, 250, 234);
+}
+
+li{
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+a {color: rgb(57, 55, 55);
+text-decoration: none;}
+
+a:visited{
+    color: rgb(113, 113, 117);
+}
+.aboutListHeading{
+    font-weight: bold;
+    font-style: normal;
+}
+
+.iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; 
+    height: 0;
+  }
+
+.bold{font-weight: bold;}
+.justify{text-align: justify;}
+
+.songstatisticsbg{
+    background-color: rgb(180, 208, 217);
+}
